@@ -1,4 +1,2 @@
 # Geotab Taxi Telematics
-Geotab Taxi Telematics Analysis / Ml
-
-Road safety - Web Dashboard
+Geotab Taxi Telematics data analysis and machine learning for Road safety Web Dashboard
